@@ -1,0 +1,14 @@
+{
+  "name": "desafio_teste_ludo",
+  "version": "1.0.0",
+  "description": "Casos de teste (TDD) em JavaScript para uma partida de Ludo com 2 jogadores",
+  "scripts": {
+    "test": "jest --verbose"
+  },
+  "jest": {
+    "testEnvironment": "node"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
